@@ -18,3 +18,10 @@ Check for missing values in each column and handle them accordingly.
  
  Identify the top cuisines and cities with the highest number of restaurants.
 
+
+ ## Task - 1.3 : Geospatial Analysis
+ Visualize the locations of restaurants on a map using latitude and longitude information.
+ 
+ Analyze the distribution of restaurants across different cities or countries. Determine if there is any correlation between the restaurant's location and its rating.
+
+
