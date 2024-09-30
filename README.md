@@ -24,4 +24,10 @@ Check for missing values in each column and handle them accordingly.
  
  Analyze the distribution of restaurants across different cities or countries. Determine if there is any correlation between the restaurant's location and its rating.
 
+## Level - 2
+## Task - 2.1 : Table Booking and Online Delivery
+Determine the percentage of restaurants that offer table booking and online delivery.
+Compare the average ratings of restaurants with table booking and those without.
+Analyze the availability of online delivery among restaurants with different price ranges.
+
 
