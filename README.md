@@ -30,4 +30,9 @@ Determine the percentage of restaurants that offer table booking and online deli
 Compare the average ratings of restaurants with table booking and those without.
 Analyze the availability of online delivery among restaurants with different price ranges.
 
+## Task - 2.2 : Price Range Analysis
+Determine the most common price range among all the restaurants.
+Calculate the average rating for each price range.
+Identify the color that represents the highest average rating among different price ranges.
+
 
